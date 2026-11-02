@@ -1,0 +1,476 @@
+{
+"01-cropped-manga-bufante": {
+"hash": "82192c988c4a1e67185532884e6520501f52afb1",
+"node": "2:5",
+"w": 599,
+"h": 799
+},
+"01-jaqueta-e-vestido": {
+"hash": "d906583fb419844ff532c72ceaf4ec605684aca5",
+"node": "2:6",
+"w": 600,
+"h": 800
+},
+"01-jaqueta-patchwork": {
+"hash": "e31e99fb4d890314469fbff118876984a589b904",
+"node": "2:7",
+"w": 600,
+"h": 800
+},
+"01-porta-vermelha-bolsa": {
+"hash": "d4dc58af169e9ee5747cdf70b1b476b0654ef474",
+"node": "2:8",
+"w": 533,
+"h": 800
+},
+"02-bolsa-coracao": {
+"hash": "4ca8bc9b4dbec0c69b949e134686c97a7d9d0627",
+"node": "2:9",
+"w": 533,
+"h": 800
+},
+"02-calca-patchwork": {
+"hash": "e85c8a8a049dc0612d1af74e85172845bdad4c27",
+"node": "2:10",
+"w": 599,
+"h": 799
+},
+"02-top-frente-unica": {
+"hash": "ac3fcdb30a3412f1615569f4b553d81f3e7d4210",
+"node": "2:11",
+"w": 600,
+"h": 800
+},
+"02-vestido-preto": {
+"hash": "512b5a777b169a64f4c63488438574ea4d567538",
+"node": "2:12",
+"w": 600,
+"h": 800
+},
+"03-calca-xadrez": {
+"hash": "d4c14d68363b697a0f7e736abd74127a23098ca2",
+"node": "2:13",
+"w": 600,
+"h": 800
+},
+"03-camiseta-colar": {
+"hash": "d09d4e7c3c9fcd9e45cba953fa0bdc27d5d590ed",
+"node": "2:14",
+"w": 533,
+"h": 800
+},
+"03-top-e-saia-jeans": {
+"hash": "b5209d1701e9159ee0ed47fd2b1c9a8608a1fb84",
+"node": "2:15",
+"w": 599,
+"h": 799
+},
+"03-top-e-short": {
+"hash": "bd7ebb9f059827896a29b70af126d9005635a170",
+"node": "2:16",
+"w": 600,
+"h": 800
+},
+"04-rua-camiseta-coracao": {
+"hash": "eebcd68d8196a66c4d6d0ffd7006d2f637ac87d6",
+"node": "2:17",
+"w": 533,
+"h": 800
+},
+"04-top-e-cinto": {
+"hash": "a533a5a7e95fac5c26e761025a9c9d01a8d8245b",
+"node": "2:18",
+"w": 600,
+"h": 800
+},
+"04-vestido-xadrez": {
+"hash": "5f4144f5e4c1347fbf314270035c442fe117879e",
+"node": "2:19",
+"w": 600,
+"h": 800
+},
+"05-duas-modelos": {
+"hash": "d9a954b844bb59ceb377ed94bb069fead03a309a",
+"node": "2:20",
+"w": 533,
+"h": 800
+},
+"05-top-tiras-e-short": {
+"hash": "8ffa0b241aa23bac9f4f7dfa0aa4600f89b5d2ff",
+"node": "2:21",
+"w": 599,
+"h": 799
+},
+"06-escada-ecobag": {
+"hash": "787d70f32f4f3db825a8982e94a44ac4099e4725",
+"node": "2:22",
+"w": 533,
+"h": 800
+},
+"06-jaqueta-sentada": {
+"hash": "f48fab55149b4228b14706bd385ee6ae49c83459",
+"node": "2:23",
+"w": 599,
+"h": 799
+},
+"07-camiseta-marrom": {
+"hash": "03df2cb31ebf53cdff0832b258e8e955b6a13f44",
+"node": "2:24",
+"w": 533,
+"h": 800
+},
+"08-ecobag-estrela": {
+"hash": "98d70193b4aa789feb3b0572684377f8254254e3",
+"node": "2:25",
+"w": 533,
+"h": 800
+},
+"09-cropped-marrom": {
+"hash": "7524d6d1a74ef4ce7e9502c04a528239b449ecc9",
+"node": "2:26",
+"w": 533,
+"h": 799
+},
+"90s-vibes-desenho-top-frente-unica": {
+"hash": "5da0496386994dde94bee81136c6628df26ab2c6",
+"node": "2:27",
+"w": 798,
+"h": 345
+},
+"90s-vibes-desenho-vestido": {
+"hash": "f32eb202f29e5b434d94f931a3860f830a1dea0f",
+"node": "2:28",
+"w": 799,
+"h": 672
+},
+"adesivo-bebe": {
+"hash": "236f7779f8e556c4e080bd1022994b94399815a1",
+"node": "2:29",
+"w": 797,
+"h": 800
+},
+"adesivo-gato": {
+"hash": "e826c4dedafacabf606581d9fabed25c4492e3aa",
+"node": "2:30",
+"w": 797,
+"h": 800
+},
+"adesivo-sol": {
+"hash": "fe25150c6277f54d8d45f6761c1895cbd7483ad5",
+"node": "2:31",
+"w": 797,
+"h": 800
+},
+"audaces-encaixes": {
+"hash": "fd48953f6610875c9b3dfe137e95246cf2dc6048",
+"node": "2:32",
+"w": 360,
+"h": 340
+},
+"audaces-moldes": {
+"hash": "f78b27d92d35d0b9efb8fbb141be5f2b674fac28",
+"node": "2:33",
+"w": 360,
+"h": 340
+},
+"botao-start": {
+"hash": "97c6a9bb6fa33873d065f2e5a103d5ff14389b77",
+"node": "2:34",
+"w": 800,
+"h": 324
+},
+"capcut": {
+"hash": "f33bec76103778d949dd2f526321428abed85f3a",
+"node": "2:35",
+"w": 800,
+"h": 800
+},
+"cartoes": {
+"hash": "96cc3f22004a33eec6601b5965f22ebe22a934e4",
+"node": "2:36",
+"w": 800,
+"h": 522
+},
+"celular-flip": {
+"hash": "caab41f5cfd7bdbaaa393cb1407b560cd5cbc3ff",
+"node": "2:37",
+"w": 339,
+"h": 799
+},
+"clo3d": {
+"hash": "2f01e7edcacf415ec32a4e92cb5e31942ea1a15b",
+"node": "2:38",
+"w": 224,
+"h": 224
+},
+"computador-pixel": {
+"hash": "aa9b61d08fa5d1ba37ec496e269b28e1049472ca",
+"node": "2:39",
+"w": 703,
+"h": 799
+},
+"coreldraw": {
+"hash": "bd4cf12e6a9831e3957d2f40844881b61d59dca2",
+"node": "2:40",
+"w": 208,
+"h": 198
+},
+"cursor-animado": {
+"hash": "a1e4db004641085046dfc1fbac107242244b5e9f",
+"node": "2:41",
+"w": 570,
+"h": 626
+},
+"desenho-blusa-gola-alta": {
+"hash": "b0f34fad72c787aded36ebc72ef73f7f011f8f7c",
+"node": "2:42",
+"w": 799,
+"h": 774
+},
+"desenho-calca-1": {
+"hash": "41094d5e4f2c767855292e7b1c366da8b5058996",
+"node": "2:43",
+"w": 799,
+"h": 474
+},
+"desenho-calca-2": {
+"hash": "82b61c3ace124f6eedc55d77a51288250eae1dfb",
+"node": "2:44",
+"w": 800,
+"h": 539
+},
+"desenho-cropped": {
+"hash": "7fa65308a5b2485591cbf8467e7ad62cad7b7c62",
+"node": "2:45",
+"w": 797,
+"h": 195
+},
+"desenho-jaqueta": {
+"hash": "3daa0ebea7c2b94f58437d2ae43ac56f5ded252e",
+"node": "2:46",
+"w": 703,
+"h": 799
+},
+"desenho-saia": {
+"hash": "7c894d990105e32f3b726382d374d1e7cc50fe77",
+"node": "2:47",
+"w": 799,
+"h": 310
+},
+"desenho-short": {
+"hash": "c60e92ff20729fb8b9e2ec81dd9793e707b236c1",
+"node": "2:48",
+"w": 797,
+"h": 243
+},
+"desenho-top-tiras": {
+"hash": "91daaa0f6319d91fd821ee1952065d1f97b4c17d",
+"node": "2:49",
+"w": 799,
+"h": 387
+},
+"estrela-cromada": {
+"hash": "1973d41cbf0c087577df4a406a69ec4439796515",
+"node": "2:50",
+"w": 800,
+"h": 782
+},
+"figma": {
+"hash": "286e624bcd0d730ac44f9faa98d3c1e80757982a",
+"node": "2:51",
+"w": 800,
+"h": 800
+},
+"foto-deserto": {
+"hash": "579af1610e12ff89b3a78f5b3a549acb0b62aa87",
+"node": "2:52",
+"w": 600,
+"h": 800
+},
+"foto-nath-maos-no-rosto": {
+"hash": "717e447ab34d6cce21467f78716308793c764609",
+"node": "2:53",
+"w": 800,
+"h": 600
+},
+"foto-selfie-campo": {
+"hash": "2f4bbc73b05caae25bc2c925d40e2bfd94681a71",
+"node": "2:54",
+"w": 600,
+"h": 800
+},
+"fundo-cetim-vermelho": {
+"hash": "5c0ba4c122e7b1060463d3d439176cf6dc5dad14",
+"node": "2:55",
+"w": 2400,
+"h": 1597
+},
+"fundo-ceu-campo": {
+"hash": "71b37057905bfdb2e87bd3e2f4b43543fc91677e",
+"node": "2:56",
+"w": 1280,
+"h": 720
+},
+"fundo-xadrez": {
+"node": "2:57",
+"svg": 1
+},
+"icone-arquivo-verde": {
+"node": "2:62",
+"svg": 1
+},
+"icone-globo": {
+"hash": "a07bd165c1f01246a02cbe2139c87df5489990eb",
+"node": "2:74",
+"w": 800,
+"h": 800
+},
+"icone-instagram": {
+"node": "2:75",
+"svg": 1
+},
+"icone-linkedin": {
+"node": "2:78",
+"svg": 1
+},
+"illustrator": {
+"hash": "477aa4af96123d3b5734c2c838b07ab64d96f30b",
+"node": "2:85",
+"w": 800,
+"h": 800
+},
+"letra-a": {
+"hash": "a56374fe6f141d1e18df5bb258e9d7202c4ba17a",
+"node": "2:86",
+"w": 800,
+"h": 744
+},
+"letra-h": {
+"hash": "7503b27ad12036bff6d8f767faed284ce19ecc54",
+"node": "2:87",
+"w": 668,
+"h": 800
+},
+"letra-n": {
+"hash": "fdd442f6c1a098c17919fed14c88de745890f047",
+"node": "2:88",
+"w": 800,
+"h": 588
+},
+"letra-t": {
+"hash": "e22d5816f0c1ae5bdcdea61b325ae66ba5116f54",
+"node": "2:89",
+"w": 612,
+"h": 800
+},
+"lightroom": {
+"hash": "305b5a536452eb7086ffa0d8cdbb1753e76991cf",
+"node": "2:90",
+"w": 799,
+"h": 780
+},
+"lupa-2": {
+"node": "2:91",
+"svg": 1
+},
+"lupa": {
+"node": "2:96",
+"svg": 1
+},
+"pasta-rosa": {
+"node": "2:101",
+"svg": 1
+},
+"pasta-verde": {
+"node": "2:114",
+"svg": 1
+},
+"photoshop": {
+"hash": "10e2f5d3654d860c3fabe9d808ba3e51410a198a",
+"node": "2:127",
+"w": 800,
+"h": 780
+},
+"render-vestido": {
+"hash": "2e04327d1ab3f5dd708968e59a02d65083f71a5f",
+"node": "2:128",
+"w": 666,
+"h": 799
+},
+"seta": {
+"node": "2:129",
+"svg": 1
+},
+"tag-estrelas": {
+"hash": "a66b6cf352b287d2aaa339bec1942350a9924dca",
+"node": "2:132",
+"w": 800,
+"h": 800
+},
+"tag-logo": {
+"hash": "cd041ead5550d7b3a2e364313e4d9cdb335ea2f1",
+"node": "2:133",
+"w": 800,
+"h": 800
+},
+"tag-upcycle": {
+"hash": "2364bba62195ce747940f3c04c0dcd476eaa0d0b",
+"node": "2:134",
+"w": 800,
+"h": 800
+},
+"video-embalagem-capa": {
+"hash": "78825db8066dc40e536a739b75cee057949716e8",
+"node": "2:135",
+"w": 720,
+"h": 1280
+},
+"video-grade-posts-capa": {
+"hash": "08811aac311c86d566aa4455b03b790527cd4685",
+"node": "2:136",
+"w": 702,
+"h": 1280
+},
+"video-instagram-capa": {
+"hash": "e896d28f29a01b7137206a3db0dc3837fef9f341",
+"node": "2:137",
+"w": 592,
+"h": 1280
+},
+"video-post-drop-capa": {
+"hash": "b6a4cee84fe5a54639e0b2165ac778ea266b508e",
+"node": "2:138",
+"w": 720,
+"h": 1280
+},
+"video-post-upcycle-capa": {
+"hash": "cc04fec3b5686b2aca66565c03141ea6caa0ba5a",
+"node": "2:139",
+"w": 720,
+"h": 1280
+},
+"video-render-3d-capa": {
+"hash": "71587cef684b2455fa14146ca53a3363622e0f09",
+"node": "2:140",
+"w": 1068,
+"h": 1280
+},
+"video-site-capa": {
+"hash": "00e60eb107f6be2f410206377dcfbd0042dd7356",
+"node": "2:141",
+"w": 662,
+"h": 1280
+},
+"viuva-negra-desenho-top-frente-unica": {
+"hash": "b6e871120ef612c44215e398d02f15f0657fe571",
+"node": "2:142",
+"w": 800,
+"h": 378
+},
+"viuva-negra-desenho-vestido": {
+"hash": "f6b5eb30b7cb72332a720af079fd820adcb4640c",
+"node": "2:143",
+"w": 799,
+"h": 558
+}
+}
