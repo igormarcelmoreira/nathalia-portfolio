@@ -9,3 +9,7 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# kit de assets: gerado por tools/make_kit.py
+kit-nathalia/
+kit-nathalia.zip
