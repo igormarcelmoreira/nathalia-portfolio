@@ -1,0 +1,11 @@
+# credenciais/vínculo da Vercel (criados pela CLI dentro de site/)
+.vercel
+.env*
+
+# HTML para importar no Figma: gerado por tools/figma_export.py
+figma/*.html
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
