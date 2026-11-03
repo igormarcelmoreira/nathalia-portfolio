@@ -2,21 +2,7 @@
 .vercel
 .env*
 
-# HTML para importar no Figma: gerado por tools/figma_export.py
-figma/*.html
-
 __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
-
-# kit de assets: gerado por tools/make_kit.py
-kit-nathalia/
-kit-nathalia.zip
-
-# arquivos temporários de upload para o Figma
-figma/upload/
-figma/reup/
-figma/*.log
-figma/*.txt
-figma/emb_*.jpg
