@@ -1,6 +1,6 @@
 """Monta o site em site/.
 
-Desktop: snapshot do layout renderizado pelo Canva (extracao/snap/<pagina>.json),
+Desktop: snapshot do layout renderizado pelo Canva (src/desktop/<pagina>.json),
 com cada seção numa "tela" de 1440px escalada para a largura da janela.
 Mobile: markup próprio, escrito à mão em src/mobile/<pagina>.html.
 
@@ -14,8 +14,8 @@ import shutil
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SNAP = os.path.join(ROOT, "extracao", "snap")
-RAW_ASSETS = os.path.join(ROOT, "extracao")
+SNAP = os.path.join(ROOT, "src", "desktop")
+ASSETS = os.path.join(ROOT, "src", "assets")
 SRC = os.path.join(ROOT, "src")
 OUT = os.path.join(ROOT, "site")
 
@@ -134,7 +134,7 @@ def mobile_assets(h):
             dst = os.path.join(mdir, name)
             if not os.path.exists(dst):
                 srcf, box = CROPS[name]
-                Image.open(os.path.join(RAW_ASSETS, "_assets", srcf)).crop(box).save(dst)
+                Image.open(os.path.join(ASSETS, srcf)).crop(box).save(dst)
             new = "assets/m/" + name
         elif rel.endswith((".jpg", ".png")):
             kind, fname = rel.split("/", 1)
@@ -142,7 +142,7 @@ def mobile_assets(h):
             name = os.path.splitext(fname)[0] + ".webp"
             dst = os.path.join(mdir, name)
             if not os.path.exists(dst):
-                im = Image.open(os.path.join(RAW_ASSETS, "_assets", kind, fname))
+                im = Image.open(os.path.join(ASSETS, kind, fname))
                 im = im.convert("RGBA") if im.mode in ("P", "LA", "RGBA", "L") else im.convert("RGB")
                 if im.width > MAX_W:
                     im = im.resize((MAX_W, round(im.height * MAX_W / im.width)), Image.LANCZOS)
@@ -211,10 +211,10 @@ def main():
         if os.path.isdir(os.path.join(SRC, d)):
             shutil.copytree(os.path.join(SRC, d), os.path.join(OUT, d), dirs_exist_ok=True)
     shutil.copy2(os.path.join(SRC, "vercel.json"), os.path.join(OUT, "vercel.json"))
-    for f in os.listdir(os.path.join(RAW_ASSETS, "_assets", "fonts")):
+    for f in os.listdir(os.path.join(ASSETS, "fonts")):
         used_assets.add(("fonts", f))
     for kind, name in sorted(used_assets):
-        src = os.path.join(RAW_ASSETS, "_assets", kind, name)
+        src = os.path.join(ASSETS, kind, name)
         dst = os.path.join(OUT, "assets", kind, name)
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         if os.path.exists(src):
